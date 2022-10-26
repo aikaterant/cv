@@ -1,0 +1,22 @@
+body {
+  background-color: #D0B8A8;
+  font-family: Georgia, serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #3C2317;
+  text-shadow: 2px 2px 5px white;
+  font-family: "Sofia", sans-serif;
+}
+h3 {
+  color: #665A48;
+  font-family: "Sofia", sans-serif;
+  text-shadow: 2px 2px 5px white;
+}
